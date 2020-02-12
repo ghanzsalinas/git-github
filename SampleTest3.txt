@@ -7,3 +7,5 @@ Workplace at well fargo
 Automation 
 
 Level3
+
+i need to study reactJS
