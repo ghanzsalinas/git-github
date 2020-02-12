@@ -3,3 +3,7 @@ New changes George Salinas
 Software engineer
 
 Wells Fargo
+
+Java 
+React
+Jasascript
