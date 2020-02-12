@@ -1,11 +1,10 @@
-New changes 
-
-Hanz Salinas
+New changes George Salinas
 
 Software engineer
 
-Mphasis
+Wells Fargo
 
-Machine learning 
-Aws 
-Google cloud
+Java 
+React
+Jasascript
+
