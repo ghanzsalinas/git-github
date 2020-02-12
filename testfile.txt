@@ -7,4 +7,6 @@ Wells Fargo
 Java 
 React
 Jasascript
-
+c++
+C
+Angular
