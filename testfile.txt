@@ -10,3 +10,6 @@ Jasascript
 c++
 C
 Angular
+Bootstrap
+Sql 
+Expressjs
