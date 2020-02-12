@@ -13,3 +13,6 @@ Angular
 Bootstrap
 Sql 
 Expressjs
+Lang 1
+Lang 2 
+Lang 3 
