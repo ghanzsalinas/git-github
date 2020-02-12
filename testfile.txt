@@ -5,3 +5,7 @@ Hanz Salinas
 Software engineer
 
 Mphasis
+
+Machine learning 
+Aws 
+Google cloud
