@@ -2,10 +2,6 @@ I am developer for Wells
 
 File4 opened again!!
 
-Vue.js
-ads
-Vagrant
-
 A sudden change came right in!!
 
 Change in SampleText4.txt
